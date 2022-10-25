@@ -1,0 +1,6 @@
+version: '3.7'
+
+services:
+  fragmentation-producer:
+    ports:
+      - 80:80
