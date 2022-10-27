@@ -3,7 +3,7 @@
 This app allows you to publish your data as linked data fragments.
 
 # pre-requisites
-- [Docker Compose (at least v3.5)](https://docs.docker.com/compose/)
+- [Docker Compose (at least v3.7)](https://docs.docker.com/compose/)
 - The host that can access the internet
 
 The application hasn't been tested on any windows operating system.
