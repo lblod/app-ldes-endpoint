@@ -2,6 +2,8 @@
 
 This app allows you to publish your data as linked data fragments.
 
+For extended documentation, please consult [redpencilio/fragmentation-producer-service](https://github.com/redpencilio/fragmentation-producer-service)
+
 # pre-requisites
 - [Docker Compose (at least v3.7)](https://docs.docker.com/compose/)
 - The host that can access the internet
