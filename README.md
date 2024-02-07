@@ -48,7 +48,7 @@ To monitor the logs, `docker-compose logs -ft --tail=100` is your friend.
 
 # REST API
 By default, this application doesn't contain any data, so you'll have to first add some data before being able to retrieve it.
-We'll (briefly) specification the API in this section. Please refer to the examples to see how it would work in practice.
+We'll (briefly) describe the API in this section. Please refer to the examples to see how it would work in practice.
 
 ## **GET** /:folder/:subfolder?/:nodeId
 
